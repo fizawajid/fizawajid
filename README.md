@@ -61,16 +61,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizawajid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizawajid&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fizawajid&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333333&icon_color=2f80ed" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizawajid&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333333" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fizawajid&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=fizawajid&theme=default&hide_border=true&background=ffffff&ring=2f80ed&fire=eb5454&currStreakLabel=2f80ed&sideLabels=333333&dates=666666" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizawajid&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=f7768e&point=7dcfff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizawajid&theme=github-light&hide_border=true&bg_color=ffffff&color=2f80ed&line=eb5454&point=2f80ed" />
 </p>
 
 ---

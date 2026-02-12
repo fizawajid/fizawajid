@@ -45,17 +45,11 @@
 
 ## 🚀 Featured Projects
 
-- 📚 **Book Collection Manager**  
-  MERN stack application with genres filtering, favorites system & lending functionality.
+📖 BookHaven
+MERN stack application to organize, review, and explore books efficiently. Supports user authentication, book ratings, reviews, wishlists, reading goals, statistics dashboard, and cloud syncing.
 
-- 🎮 **Ultimate Tic Tac Toe AI**  
-  CSP-based AI using Backtracking, Forward Checking, AC-3, MRV & Alpha-Beta pruning.
-
-- 🚗 **TORCS Autonomous Driver**  
-  Reinforcement learning-based car controller built without TensorFlow/Keras.
-
-- 🌐 **AWS + Flask Integration**  
-  Connected Flask app with DynamoDB & automated AWS resource management.
+🤖 CLARA: NLP Agentic AI Feedback Analysis System
+Production-grade multi-agent AI system for feedback analysis using LangChain, ChromaDB, and FastAPI. Includes sentiment analysis, topic modeling, extractive summarization, RAG retrieval, and a Streamlit dashboard.
 
 ---
 

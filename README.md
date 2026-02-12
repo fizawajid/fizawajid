@@ -58,11 +58,19 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizawajid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizawajid&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fizawajid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizawajid&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fizawajid&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizawajid&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=f7768e&point=7dcfff" />
 </p>
 
 ---

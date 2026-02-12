@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fiza Wajid</h1>
-<h3 align="center">Computer Science Student | AI & Backend Developer</h3>
-
+<h3 align="center">Computer Science Student | Backend Developer | AI & Cloud Enthusiast
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fizwajid&label=Profile%20Views&color=0e75b6&style=flat" alt="fizwajid" />
 </p>
@@ -10,9 +10,10 @@
 ## 🚀 About Me
 
 - 🎓 Final-year Computer Science student  
-- 🤖 Passionate about Artificial Intelligence & Constraint Satisfaction Problems  
+- 🤖 Passionate about Artificial Intelligence
 - 💻 Strong in Python, C++ & Backend Development  
-- 🔬 Built AI systems including CSP-based game solvers & autonomous drivers  
+- 🌐 Experienced in MERN stack development & RESTful APIs  
+- ☁️ Worked with AWS services and cloud-based application deployment  
 - 🌱 Continuously improving Data Structures, Algorithms & System Design  
 
 ---

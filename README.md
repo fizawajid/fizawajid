@@ -64,8 +64,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK-HERE  
-- 📧 Email: YOUR-EMAIL-HERE  
+- 💼 LinkedIn: www.linkedin.com/in/fiza-wajid-a3bba4312  
+- 📧 Email: fizawajid001@gmail.com  
 
 ---
 
